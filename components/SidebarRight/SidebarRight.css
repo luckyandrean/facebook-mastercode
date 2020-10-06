@@ -1,0 +1,32 @@
+
+.sidebarRight {
+    padding-top: 20px;
+}
+.box {
+    border-radius: 33px;
+    background-color: white;
+}
+
+.contactIcon {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.contactIcon > .MuiSvgIcon-root {
+    font-size: xx-large;
+    color: #2e81f4;
+}
+
+.contactIcon > h4 {
+    margin-left: 20px;
+    font-weight: 600;
+
+}
+
+.contactIcon:hover {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
